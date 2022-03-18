@@ -1,5 +1,3 @@
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
 
 public class c_String {
     public static void main(String [] args) {
@@ -10,8 +8,5 @@ public class c_String {
         String name = "Igor";
         System.out.println(s + space + name);
         System.out.println("My number is " + x);
-
-
-
     }
 }
