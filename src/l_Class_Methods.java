@@ -22,7 +22,7 @@ public class l_Class_Methods {
 }
 
 class Person {
-    private String name;
+    public String name;
     private int age;
 
     public void setName(String userName) { // SETTER
